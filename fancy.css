@@ -2,6 +2,11 @@ body {
   background-color: rgb(167, 167, 167);
   color: white; 
 }
+p {
+  margin-top: 20px;   /* space above paragraph */
+  margin-bottom: 20px; /* space below paragraph */
+  line-height: 1.6;    /* makes text more readable */
+}
 a {
   background-color: rgb(175, 100, 212);
   color: white;
