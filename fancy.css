@@ -3,8 +3,9 @@ body {
   color: white; 
 }
 p {
-  margin-top: 20px;   /* space above paragraph */
-  margin-bottom: 20px; /* space below paragraph */
+  margin-top: 20px;   
+  margin-bottom: 20px; 
+  font-family: futura 
 }
 a {
   background-color: rgb(175, 100, 212);
