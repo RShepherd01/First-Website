@@ -9,9 +9,9 @@ p {
 }
 a {
   background-color: rgb(175, 100, 212);
-  color: gray;
-  padding: 10px 15px;
-  border-radius: 5px;
+  color: white;
+  padding: 20px 30px;
+  border-radius: 10px;
   text-decoration: none;
   cursor: pointer;
 }
