@@ -9,11 +9,12 @@ p {
 }
 a {
   background-color: rgb(175, 100, 212);
-  font-size: 40px
+  font-size: 40px;
   color: white;
   padding: 50px 60px;
   border-radius: 20px;
   text-decoration: none;
+  display: inline-block;
   cursor: pointer;
 }
 
